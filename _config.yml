@@ -1,0 +1,4 @@
+# Site settings
+title: jeng's little corner
+baseurl: "" # Set this to the base URL of your site, e.g., /myblog
+url: "https://jeng.cc" # Set this to the root URL of your site, e.g., https://example.com
