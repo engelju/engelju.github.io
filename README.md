@@ -1,6 +1,6 @@
 engelju.github.io
 =================
 
-[![pages-build-deployment](https://github.com/engelju/engelju.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/engelju/engelju.github.io/actions/workflows/pages/pages-build-deployment)
+[![Deploy static content to Pages](https://github.com/engelju/engelju.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/engelju/engelju.github.io/actions/workflows/static.yml)
 
 https://jeng.cc
